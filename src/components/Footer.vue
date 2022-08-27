@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-black text-white py-10">
+  <div class="bg-black text-white py-12">
     ©<span>{{ currentYear }}</span> No Face Tribe
   </div>
 </template>
